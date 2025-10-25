@@ -11,7 +11,7 @@
 
 <div align="center"> 
 
-![showcase](https://github.com/user-attachments/assets/1b8aa934-2dcf-4556-8485-1636a305f7f8)
+![showcase](https://github.com/user-attachments/assets/07479e12-9454-494e-adb1-8d5b831af529)
 
 <p align="center">
   <br />
