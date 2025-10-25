@@ -6,7 +6,7 @@ from tempmail import get_tempmail_public_apiKey
 def main():
     global thread_restart_enabled
     
-    set_console_title("Roblox Account Generator By: t.me/occursive")
+    set_console_title("Roblox Account Generator By: Tradjedy")
     
     proxy_list = load_proxies("input/proxies.txt")
     if not proxy_list:
@@ -53,3 +53,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
