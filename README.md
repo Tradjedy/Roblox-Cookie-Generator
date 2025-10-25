@@ -15,12 +15,9 @@
 
 <p align="center">
   <br />
-  <a href="https://discord.gg/2ZVpYAEEX8"><img src="https://img.shields.io/badge/Discord%20Server-Join%20Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Server" /></a>
+  <a href="https://discord.gg/rB7gvZeJrC"><img src="https://img.shields.io/badge/Discord%20Server-Join%20Community-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Server" /></a>
   <br />
   <br />
-  <a href="https://t.me/occursive"><img src="https://img.shields.io/badge/Developer-@occursive-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Developer" /></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://t.me/occursivenews"><img src="https://img.shields.io/badge/📢%20News-@occursivenews-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram News" /></a>
 </p>
 </div>
 
@@ -32,7 +29,6 @@
 - **Automatic failure protection**
 - **Proxy Support**
 - **Email verify support**
-- **Avatar auto-change (after reaching stars)**
 
 > [!NOTE]
 > The tool supports funcaptcha solver from [Rosolve](https://rosolve.pro/) and email verification using a free temporary email service ([priyo.email](https://v3.priyo.email/)). If you need integration with a different captcha solver or email verification provider, contact me.
@@ -80,35 +76,14 @@ userid:username:password:cookie
 userid:username:email:password:cookie
 ```
 
-## ✨ Stars to unlock
-- ⭐️ **20 stars: Email verification** - 🎉 *UNLOCKED!*
-- ⭐️ **50 stars: Change display name after creation** - ⏳ *COMING SOON!*
-- ⭐️ **85 stars: Join group after creation**
-- ⭐️ **100 stars: Change avatar after creation**
-- ⭐️ **140 stars: Follow user after creation**
-- ⭐️ **150+ stars: Your ideas**
 
 > [!TIP]
-> If you have custom ideas, share them in the `#suggestion` channel on my [Discord server](https://discord.gg/2ZVpYAEEX8).
+> If you have custom ideas, share them in the `#suggestion` channel on my [Discord server](https://discord.gg/rB7gvZeJrC).
   
 
 ## ⚠️ Disclaimer
 > [!WARNING]
 > This project is for educational purposes only. The author is not responsible for any misuse of this software.
-
-## 📞 Contact
-
-**Need support or a custom solution? Contact me:**
-
-```
-Telegram: https://t.me/occursive
-
-Discord: @occursive
-
-Discord server: https://discord.gg/2ZVpYAEEX8
-```
-
----
 
 <div align="center">
   
